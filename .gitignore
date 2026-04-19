@@ -1,0 +1,13 @@
+# Binaries
+midnight-core-go
+*.exe
+
+# Go build cache
+/vendor/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
